@@ -26,7 +26,7 @@ Para executar as questões deste repositório, é necessário ter um interpretad
 ## Uso 
 
 Passo a passo:
-1. Clone o repositório utilizando o seguinte comando: ```git clone https://github.com/projeto-de-algoritmos/Greed_Exercicios_Juiz_Online.git```
+1. Clone o repositório utilizando o seguinte comando: ```git clone https://github.com/projeto-de-algoritmos/PD-ExerciciosJuizesOnline.git```
 2. Entre na pasta da questão que deseja executar: ```cd <pasta_da_questao>```
 3. Rodar questão: ```python3 <nome_do_arquivo_executavel>```
 
