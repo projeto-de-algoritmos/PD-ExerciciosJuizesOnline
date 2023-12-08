@@ -13,7 +13,7 @@
 
 O repositório contém soluções para algumas questões de juíz online. Segue a lista dos exercicios escolhidos:
 
-- Exercicio 1 - (https://exercicio1.com)
+- Exercicio 1 - (https://leetcode.com/problems/coin-change/description/)
 - Exercicio 2 - (https://leetcode.com/problems/cherry-pickup-ii/description/)
 - Exercicio 3 - (https://exercicio1.com)
 - Exercicio 4 - (https://exercicio1.com)
