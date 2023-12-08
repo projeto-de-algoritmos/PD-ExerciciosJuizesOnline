@@ -16,7 +16,17 @@ class Solution:
 
             moedasUtilizadas = []
             # Analisa cada uma das possiveis moedas
-          
+            for coin in coins:
+                # Se a moeda não ultrapassar o valor a ser alcançado,
+                # armazena-se o número de moedas necessárias para o 
+                # valor menos o valor da moeda atual
+                if amount - coin >= 0:
+                    moedasUtilizadas.append(rec(amount - coin))
+                # Se não for esse o caso, adiciona o valor de inf, pois 
+                # essa moeda não poderá ser utilizada 
+                else:
+                    moedasUtilizadas.append(float('inf'))
+
             # Adiciona-se 1 ao menor número encontrado para cobrir o valor,
             # correspondendo a moeda que foi utilizada para "zerar" o montante 
             menorQuantidade = min(moedasUtilizadas) + 1
