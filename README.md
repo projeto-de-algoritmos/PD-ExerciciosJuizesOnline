@@ -47,6 +47,6 @@ Dessa forma, será possível testar a questão com os exemplos de entrada fornec
 
 ## Apresentação
 
-Assista o vídeo explicativo do projeto clicando.
+Assista o vídeo explicativo do projeto clicando [aqui](assets/apresentacao.mp4).
 
 Observação: A apresentação está em formato .mp4, portanto, faça o download para assisti-la.
