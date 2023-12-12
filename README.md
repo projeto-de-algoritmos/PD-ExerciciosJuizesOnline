@@ -16,7 +16,7 @@ O repositório contém soluções para algumas questões de juíz online. Segue 
 - Coin Change - (https://leetcode.com/problems/coin-change/description/)
 - Cherry Pickup II - (https://leetcode.com/problems/cherry-pickup-ii/description/)
 - Maximum Profit in Job Scheduling - (https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
-- Exercicio 4 - (https://exercicio1.com)
+- Trapping Rain Water - (https://leetcode.com/problems/trapping-rain-water/description/)
 
 ## Screenshots
 
