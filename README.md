@@ -20,6 +20,18 @@ O repositório contém soluções para algumas questões de juíz online. Segue 
 
 ## Screenshots
 
+- Coin Change
+
+![Coin Change](assets/coin_change.png)
+
+- Cherry Pickup II
+
+![Cherry Pickup II](assets/cherry_pickup_ii.png)
+
+- Trapping Rain Water
+
+![Trapping Rain Water](assets/trapping_rain_water.png)
+
 ## Instalação 
 Para executar as questões deste repositório, é necessário ter um interpretador python3.
 
