@@ -43,3 +43,12 @@ class Solution:
             return resultado
         # Se não foi encontrada uma solução, retorna -1
         return -1
+
+
+if __name__ == '__main__':
+    solver = Solution()
+
+    coins = input()
+    amount = int(input())
+
+    print(solver.coinChange(list(map(int, coins.split(','))), amount))

@@ -52,3 +52,22 @@ class Solution:
             return self.grid[l][c1] + self.grid[l][c2] + maxCerejas
         
         return float('-inf')
+    
+if __name__ == '__main__':
+    solver = Solution()
+
+    l1 = input()
+    l2 = input()
+    l3 = input()
+    l4 = input()
+    l5 = input()
+
+    grid = [
+        list(map(int, l1.split(','))), 
+        list(map(int, l2.split(','))), 
+        list(map(int, l3.split(','))), 
+        list(map(int, l4.split(','))), 
+        list(map(int, l5.split(',')))
+    ]
+
+    print(solver.cherryPickup(grid))
